@@ -9,10 +9,10 @@ public class Pokegram {
         Battle b = new Battle();
         Phione phione = new Phione("Фион", 1);
         Eevee eevee = new Eevee("Иви", 1);
-        Vaporeon vaporeon = new Vaporeon("Вапореон", 1);
+        Vaporeon vaporeon = new Vaporeon("Вапореон", 2);
         Flabebe flabebe = new Flabebe("Флабэбэ", 1);
-        Floette floette = new Floette("Флоэтт", 1);
-        Florges florges = new Florges("Флоргес", 1);
+        Floette floette = new Floette("Флоэтт", 2);
+        Florges florges = new Florges("Флоргес", 3);
 
         b.addAlly(phione);
         b.addAlly(eevee);
